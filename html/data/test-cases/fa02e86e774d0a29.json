@@ -1,0 +1,75 @@
+{
+  "uid" : "fa02e86e774d0a29",
+  "name" : "test_get_token",
+  "fullName" : "Scripts.testuser.TestUserApi#test_get_token",
+  "historyId" : "cef73baf5ab9987f1a7c8b80624a267e",
+  "time" : {
+    "start" : 1602555472642,
+    "stop" : 1602555472826,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "27b583e226644831",
+      "name" : "log",
+      "source" : "27b583e226644831.txt",
+      "type" : "text/plain",
+      "size" : 181
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(code=0)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testuser"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUserApi"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NU0LGLEH"
+  }, {
+    "name" : "thread",
+    "value" : "11984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testuser"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(code=0)" ]
+  },
+  "source" : "fa02e86e774d0a29.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,72 @@
+{
+  "uid" : "fac3196f4ec6f3af",
+  "name" : "test_home_api",
+  "fullName" : "Scripts.testhome.TestHomeApi#test_home_api",
+  "historyId" : "fa0ae0f94bebdf3dd225c8c70b62dbef",
+  "time" : {
+    "start" : 1602555472006,
+    "stop" : 1602555472094,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9e3e3116652c8fcc",
+      "name" : "log",
+      "source" : "9e3e3116652c8fcc.txt",
+      "type" : "text/plain",
+      "size" : 1095
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testhome"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHomeApi"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NU0LGLEH"
+  }, {
+    "name" : "thread",
+    "value" : "11984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testhome"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fac3196f4ec6f3af.json",
+  "parameterValues" : [ ]
+}

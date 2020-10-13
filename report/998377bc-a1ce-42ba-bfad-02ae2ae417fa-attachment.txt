@@ -1,0 +1,2 @@
+[32mINFO    [0m root:testuser.py:40 请求地址：http://e.cn/api/v1/address
+[32mINFO    [0m root:testuser.py:41 响应数据：{'name': '王一', 'mobile': '13212121313', 'province': '上海市', 'city': '上海', 'country': '浦东新区', 'detail': '001号', 'update_time': '1970-01-01 08:00:00'}

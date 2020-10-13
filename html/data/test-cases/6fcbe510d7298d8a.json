@@ -1,0 +1,75 @@
+{
+  "uid" : "6fcbe510d7298d8a",
+  "name" : "test_order_list",
+  "fullName" : "Scripts.testorder.TestOrderApi#test_order_list",
+  "historyId" : "5e25354a3a65dd5a42045cc33154055d",
+  "time" : {
+    "start" : 1602555472233,
+    "stop" : 1602555472292,
+    "duration" : 59
+  },
+  "description" : "订单列表",
+  "descriptionHtml" : "<p>订单列表</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "订单列表",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3b7e7aa1ee68c3eb",
+      "name" : "log",
+      "source" : "3b7e7aa1ee68c3eb.txt",
+      "type" : "text/plain",
+      "size" : 3535
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testorder"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOrderApi"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NU0LGLEH"
+  }, {
+    "name" : "thread",
+    "value" : "11984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testorder"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fcbe510d7298d8a.json",
+  "parameterValues" : [ ]
+}

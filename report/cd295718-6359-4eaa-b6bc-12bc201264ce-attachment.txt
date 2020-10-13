@@ -1,0 +1,2 @@
+[32mINFO    [0m root:testorder.py:37 请求地址：http://e.cn/api/v1/order
+[32mINFO    [0m root:testorder.py:38 响应数据：{'order_no': 'DA13554718310540', 'order_id': '117', 'create_time': '2020-10-13 10:17:51', 'pass': True}

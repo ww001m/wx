@@ -1,0 +1,197 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Scripts",
+    "children" : [ {
+      "name" : "testhome",
+      "children" : [ {
+        "name" : "TestHomeApi",
+        "children" : [ {
+          "name" : "test_home_api",
+          "uid" : "fac3196f4ec6f3af",
+          "parentUid" : "a09c883bc0367728281a2cb17b0ba8ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472006,
+            "stop" : 1602555472094,
+            "duration" : 88
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_theme_api",
+          "uid" : "c2310303b17607ae",
+          "parentUid" : "a09c883bc0367728281a2cb17b0ba8ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472100,
+            "stop" : 1602555472160,
+            "duration" : 60
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_recent_product_api",
+          "uid" : "cbdd6d445b9e2972",
+          "parentUid" : "a09c883bc0367728281a2cb17b0ba8ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472164,
+            "stop" : 1602555472218,
+            "duration" : 54
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a09c883bc0367728281a2cb17b0ba8ff"
+      } ],
+      "uid" : "264cd7a009033897e8eb0ff71054d74e"
+    }, {
+      "name" : "testorder",
+      "children" : [ {
+        "name" : "TestOrderApi",
+        "children" : [ {
+          "name" : "test_order_list",
+          "uid" : "6fcbe510d7298d8a",
+          "parentUid" : "7135655db22f8dae5f0fd17245ac2f16",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472233,
+            "stop" : 1602555472292,
+            "duration" : 59
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_order_api",
+          "uid" : "aa0ec0a01f79dcf9",
+          "parentUid" : "7135655db22f8dae5f0fd17245ac2f16",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472296,
+            "stop" : 1602555472376,
+            "duration" : 80
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_query_order",
+          "uid" : "346d77d47fd310a0",
+          "parentUid" : "7135655db22f8dae5f0fd17245ac2f16",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472389,
+            "stop" : 1602555472444,
+            "duration" : 55
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7135655db22f8dae5f0fd17245ac2f16"
+      } ],
+      "uid" : "5aa05dddf154b00fc267f9fc19727456"
+    }, {
+      "name" : "testproduct",
+      "children" : [ {
+        "name" : "TestProductApi",
+        "children" : [ {
+          "name" : "test_product_classify_api",
+          "uid" : "740da95700c2ffba",
+          "parentUid" : "901d6f4ff58c8634ae28e203a33af1ef",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472450,
+            "stop" : 1602555472506,
+            "duration" : 56
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_classify_product_api",
+          "uid" : "8f8e684b21ef53b8",
+          "parentUid" : "901d6f4ff58c8634ae28e203a33af1ef",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472519,
+            "stop" : 1602555472565,
+            "duration" : 46
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_product_detail",
+          "uid" : "ff585ec2848000ce",
+          "parentUid" : "901d6f4ff58c8634ae28e203a33af1ef",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472570,
+            "stop" : 1602555472626,
+            "duration" : 56
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "901d6f4ff58c8634ae28e203a33af1ef"
+      } ],
+      "uid" : "5e11d45ce0f4d0e6f0a8c15dfabde823"
+    }, {
+      "name" : "testuser",
+      "children" : [ {
+        "name" : "TestUserApi",
+        "children" : [ {
+          "name" : "test_get_token",
+          "uid" : "fa02e86e774d0a29",
+          "parentUid" : "7e18a0db2ca5be359a86e2944e6fbf7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472642,
+            "stop" : 1602555472826,
+            "duration" : 184
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_verify_token",
+          "uid" : "7a463bfed6d5bf23",
+          "parentUid" : "7e18a0db2ca5be359a86e2944e6fbf7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472831,
+            "stop" : 1602555472857,
+            "duration" : 26
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_user_address",
+          "uid" : "53f81f576baa626b",
+          "parentUid" : "7e18a0db2ca5be359a86e2944e6fbf7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602555472861,
+            "stop" : 1602555472907,
+            "duration" : 46
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7e18a0db2ca5be359a86e2944e6fbf7d"
+      } ],
+      "uid" : "4bd17608467e3f5f570844d1ee6f8cee"
+    } ],
+    "uid" : "ac537b8f55a60b2e2381ee5657079cea"
+  } ]
+}

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:testuser.py:28 请求地址：http://e.cn/api/v1/token/verify
+[32mINFO    [0m root:testuser.py:29 响应数据：{'isValid': True}
